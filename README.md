@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Preview](assets/Preview.png)
+<p align="center">
+  <img src="assets/python.svg" width="60">
+</p>
