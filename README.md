@@ -11,10 +11,6 @@
     <img src="assets/kaggle.svg" width="277">
 </a>
 
-</p>
-
-<p align="center">
-
 <img src="assets/AI.svg" width="277">
 
 <img src="assets/ds.svg" width="277">
