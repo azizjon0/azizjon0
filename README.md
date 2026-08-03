@@ -1,22 +1,23 @@
-## Hi there 👋
+#<p align="center">
+  <img src="assets/preview.svg" width="100%">
+</p>
+<p align="center">
 
-<!--
-**azizjon0/azizjon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ">
+    <img src="assets/linkedin.svg" width="170">
+</a>
 
-Here are some ideas to get you started:
+<a href="https://kaggle.com/ТВОЙ_ПРОФИЛЬ">
+    <img src="assets/kaggle.svg" width="170">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<table>
-<tr>
-<td align="center">
-<img src="assets/python.svg" width="512"><br>
-Python
-</td>
+</p>
+<h2 align="center">Technologies</h2>
+
+<p align="center">
+
+<img src="assets/AI.svg" width="90">
+
+<img src="assets/ds.svg" width="90">
+
+</p>
