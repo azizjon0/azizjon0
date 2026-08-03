@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="assets/preview.svg" width="2486">
-</p>
-<p align="center">
+  <img src="assets/preview.svg" width="100%">
 
 <a href="https://www.linkedin.com/in/azizjon-achilov-369941291/">
     <img src="assets/linkedin.svg" width="277">
