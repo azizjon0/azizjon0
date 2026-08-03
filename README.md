@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="assets/python.svg" width="60">
-</p>
 <table>
 <tr>
 <td align="center">
-<img src="assets/python.svg" width="70"><br>
+<img src="assets/python.svg" width="512"><br>
 Python
 </td>
