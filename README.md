@@ -1,16 +1,3 @@
 <p align="center">
-  <img src="assets/preview.svg" width="100%">
-
-<a href="https://www.linkedin.com/in/azizjon-achilov-369941291/">
-    <img src="assets/linkedin.svg" width="277">
-</a>
-
-<a href="https://www.kaggle.com/achilov15">
-    <img src="assets/kaggle.svg" width="277">
-</a>
-
-<img src="assets/AI.svg" width="277">
-
-<img src="assets/ds.svg" width="277">
-
+  <img src="assets/preview.png" width="100%">
 </p>
