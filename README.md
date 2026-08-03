@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="assets/python.svg" width="60">
 </p>
+<table>
+<tr>
+<td align="center">
+<img src="assets/python.svg" width="70"><br>
+Python
+</td>
